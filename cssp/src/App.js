@@ -1,10 +1,11 @@
+import Navbar from './components/Navbar.js'
 
 function App() {
  return (
   <>
-    <p>
-      hello world
-    </p>
+    
+     <Navbar />
+    
   </>
  )
 }
